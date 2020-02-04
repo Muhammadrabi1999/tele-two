@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tele-two/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tele-two/static/js/main.bafa0d4f.chunk.js",
+    "main.js.map": "/tele-two/static/js/main.bafa0d4f.chunk.js.map",
+    "runtime-main.js": "/tele-two/static/js/runtime-main.e125f8c6.js",
+    "runtime-main.js.map": "/tele-two/static/js/runtime-main.e125f8c6.js.map",
+    "static/js/2.ef254d23.chunk.js": "/tele-two/static/js/2.ef254d23.chunk.js",
+    "static/js/2.ef254d23.chunk.js.map": "/tele-two/static/js/2.ef254d23.chunk.js.map",
+    "index.html": "/tele-two/index.html",
+    "precache-manifest.a5ae5a2ebbe67c83f1ac33651cb55137.js": "/tele-two/precache-manifest.a5ae5a2ebbe67c83f1ac33651cb55137.js",
+    "service-worker.js": "/tele-two/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/tele-two/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ef254d23.chunk.js.LICENSE.txt": "/tele-two/static/js/2.ef254d23.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tele-two/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e125f8c6.js",
+    "static/js/2.ef254d23.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bafa0d4f.chunk.js"
+  ]
+}
